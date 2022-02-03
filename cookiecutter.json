@@ -1,7 +1,7 @@
 {
     "project_name": "",
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-    "project_url": "git@github.com:Pre-Health/{{cookiecutter.repo_name}}",
+    "project_url": "git@github.com:Jminuskin/{{cookiecutter.repo_name}}",
     "python_version": "3.9",
     "pip_packages": "",
     "pip_dev_packages": "",

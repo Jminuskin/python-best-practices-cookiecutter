@@ -28,7 +28,7 @@ python3 -m pipx ensurepath
 pipx install pipenv
 
 # Use cookiecutter to create project from this template
-pipx run cookiecutter gh:jevandezande/python-best-practices-cookiecutter
+pipx run cookiecutter gh:jminuskin/python-best-practices-cookiecutter
 ```
 
 

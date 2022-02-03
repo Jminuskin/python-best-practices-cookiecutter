@@ -7,5 +7,5 @@
 
 
 ## Credits
-This package was created with Cookiecutter and the [Jminuskin/python-best-practices-cookiecutter](https://github.com/Pre-Health/python-best-practices-cookiecutter) project template
+This package was created with Cookiecutter and the [Jminuskin/python-best-practices-cookiecutter](https://github.com/Jminuskin/python-best-practices-cookiecutter) project template
 based on the packages from sourcery-ai and fork from jevandezande.

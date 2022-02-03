@@ -2,7 +2,7 @@
     "project_name": "",
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "author_name": "Josh Minuskin",
-    "user_name": "Jminuskin,
+    "user_name": "Jminuskin",
     "project_url": "git@github.com:{{cookiecutter.user_name}}/{{cookiecutter.repo_name}}",
     "python_version": "3.9",
     "pip_packages": "",
